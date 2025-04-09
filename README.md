@@ -12,4 +12,4 @@
 [![Investment Calculator](./investment-calculator/src/assets/investment-calculator.gif "You can go to the relevant section of the project by clicking on the photo.")](https://github.com/KeskenRidvan/React-The-CompleteGuide/tree/main/investment-calculator)
 
 **:four:Refs Portals**  
-[![Refs Portals](./refs-portals/src/assets/refs-portals.gif "You can go to the relevant section of the project by clicking on the photo.")](https://github.com/KeskenRidvan/React-The-CompleteGuide/tree/main/refs-portal)
+[![Refs Portals](./refs-portals/src/assets/refs-portals.gif "You can go to the relevant section of the project by clicking on the photo.")](https://github.com/KeskenRidvan/React-The-CompleteGuide/tree/main/refs-portals)
